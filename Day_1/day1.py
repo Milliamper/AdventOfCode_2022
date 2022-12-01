@@ -21,9 +21,8 @@ def sumCalories():
     finalSum = 0
     for i in range(0, len(arrayToBeSum)):
         finalSum += arrayToBeSum[i]
-    
+
     print(finalSum)
 
 
 sumCalories()
-
