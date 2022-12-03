@@ -1,4 +1,4 @@
-def sumCalories():
+def Calorie_Counting():
     my_array = []
     maxSum = 0
     sum = 0
@@ -25,4 +25,4 @@ def sumCalories():
     print(finalSum)
 
 
-sumCalories()
+Calorie_Counting()
